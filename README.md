@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Mehmet from PowerCoders.
+- 👋 Hi, I’m Mehmet, a PowerCoders participant..
 - 👀 I’m interested in Developing, Cloud Services and DevOps.
 - 🌱 I’m currently learning front-end.
 - 💞️ I’m looking to collaborate on automation.
